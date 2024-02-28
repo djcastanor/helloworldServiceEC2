@@ -1,0 +1,25 @@
+{
+  "name": "helloworldserviceec2",
+  "version": "1.0.0",
+  "description": "Exploración de implementación de servicios utilizando express para nodejs y alojandolo en una instancia EC2",
+  "main": "app.js",
+  "scripts": {
+    "test": "run npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djcastanor/helloworldServiceEC2.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs",
+    "express",
+    "ec2"
+  ],
+  "author": "David Julian Castaño Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djcastanor/helloworldServiceEC2/issues"
+  },
+  "homepage": "https://github.com/djcastanor/helloworldServiceEC2#readme"
+}
